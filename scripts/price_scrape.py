@@ -64,17 +64,22 @@ for line in restaurant_list.find_all("li"):
     format_df["restaurant"] = restaurant
 
     # find, clean, and add price column
+    success = False
     for col in df:
         try:
             if re.fullmatch(r"[$]*\d+.\d+", df[col][1]):
-                format_df["price_usd"] = df[col]
+                success = True
+                price_list = []
+                for price in df[col]:
+                    try:
+                        price_list.append(price.strip().replace("$",""))
+                    except:
+                        price_list.append(pd.NA)
         except:
-            ...
-    try:
-        format_df = format_df.dropna()
-        format_df["price_usd"] = format_df["price_usd"].apply(lambda x: x.strip().replace("$",""))
-        format_df["price_usd"] = pd.to_numeric(format_df["price_usd"])
-    except:
+            pass
+    if success:
+        format_df["price_usd"] = price_list
+    else:
         format_df["price_usd"] = pd.NA
 
     # build final dataframe
@@ -90,6 +95,9 @@ for line in restaurant_list.find_all("li"):
         print(f"{round((count/list_length)*100, 0)}% complete...")
     count += 1
 print("Complete.")
+
+# drop rows with NA values
+price_data = price_data.dropna()
 
 
 # save price data to csv
