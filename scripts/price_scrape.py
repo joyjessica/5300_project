@@ -101,4 +101,4 @@ price_data = price_data.dropna()
 
 
 # save price data to csv
-price_data.to_csv("../raw_data/price_data.csv")
+price_data.to_csv("../raw_data/price_data.csv", index=False)
