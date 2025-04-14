@@ -62,7 +62,8 @@ df_combined = pd.DataFrame(
    {
        'restaurant': price_df['restaurant'],
        'item': price_df['item'],
-        'ms_index': price_df.apply(get_index,axis=1)
+       'price': price_df['price_usd'],
+       'ms_index': price_df.apply(get_index,axis=1)
     }
 )
 
