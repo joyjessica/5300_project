@@ -15,6 +15,7 @@ import csv
 import time
 import random
 import re
+import pandas as pd
 
 # setup selenium 
 options = webdriver.ChromeOptions()
@@ -102,8 +103,8 @@ with open('raw_data/top_items_data.csv', mode='w', newline='', encoding='utf-8')
 
             print(f"{restaurant_name}: {len(items)} items found")
 
-            # write top 5 to CSV
-            for item in items[:5]:
+            # write top 15 to CSV
+            for item in items[:15]:
                 writer.writerow([restaurant_name, item])
 
 
@@ -116,6 +117,21 @@ with open('raw_data/top_items_data.csv', mode='w', newline='', encoding='utf-8')
             print(f"Error scraping {link}: {type(e).__name__} - {e}")
 
 driver.quit()
+
+# Load the CSV file
+csv_file_path = 'raw_data/top_items_data.csv'
+df = pd.read_csv(csv_file_path)
+
+# Add the "bestseller" column with the label 1
+df['bestseller'] = 1
+
+# Remove duplicate rows
+df = df.drop_duplicates()
+
+# Save the updated CSV file
+df.to_csv(csv_file_path, index=False)
+
+print(f"Updated CSV file saved with 'bestseller' column added.")
 
 
 
