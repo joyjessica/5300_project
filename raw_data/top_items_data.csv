@@ -1,136 +1,316 @@
-restaurant,popular_item
-McDonald's,French Fries
-McDonald's,Chicken McNuggets
-McDonald's,Big Mac
-McDonald's,Egg McMuffin
-McDonald's,Filet-O-Fish
-Wendy's,Chicken Nuggets
-Wendy's,French Fries
-Wendy's,Chili
-Wendy's,Chocolate Frosty
-Wendy's,Grilled Chicken Ranch Wrap
-Chick-fil-A,Chicken Nuggets
-Chick-fil-A,Waffle Fries
-Chick-fil-A,Chicken Sandwich
-Chick-fil-A,Grilled Chicken Nuggets
-Chick-fil-A,Grilled Chicken Sandwich
-Burger King,Whopper
-Burger King,French Fries
-Burger King,Whopper Jr
-Burger King,Strawberry Banana Smoothie
-Burger King,Strawberry Milk Shake
-Subway,Italian B.M.T.
-Subway,Oven Roasted Turkey
-Subway,Tuna
-Subway,Cold Cut Combo
-Subway,Wrap
-Starbucks,Vanilla Sweet Cream Cold Brew
-Starbucks,Sous Vide Egg Bites
-Starbucks,Pink Drink
-Starbucks,Iced Brown Sugar Oatmilk Shaken Espresso
-Starbucks,"Bacon, Gouda & Egg Breakfast Sandwich"
-Taco Bell,Crunchwrap Supreme
-Taco Bell,Crunchy Taco
-Taco Bell,Bean Burrito
-Taco Bell,Soft Taco - Beef
-Taco Bell,Chicken Power Bowl
-Arby's,Classic Roast Beef
-Arby's,Arby's Melt
-Arby's,Curly Fries
-Arby's,Americana Roast Beef Sandwich
-Arby's,Coca-Cola
-Dunkin Donuts,Omelet Bites
-Dunkin Donuts,Dunkin' Wrap
-Dunkin Donuts,Strawberry Dragonfruit Dunkin' Refreshers
-Dunkin Donuts,Glazed Donut
-Dunkin Donuts,Avocado Toast
-Dairy Queen,Vanilla Cone
-Dairy Queen,Butterfinger Blizzard
-Dairy Queen,Oreo Blizzard
-Dairy Queen,Heath Blizzard
-Dairy Queen,Hot Fudge Sundae
-Sonic,Cheeseburger
-Sonic,Diet Cherry Limeade
-Sonic,Mozzarella Sticks
-Sonic,Vanilla Shake
-Sonic,Corn Dog
-Panda Express,Orange Chicken
-Panda Express,Grilled Teriyaki Chicken
-Panda Express,Chow Mein
-Panda Express,Kung Pao Chicken
-Panda Express,Broccoli Beef
-Wendy's,Chicken Nuggets
-Wendy's,French Fries
-Wendy's,Chili
-Wendy's,Chocolate Frosty
-Wendy's,Grilled Chicken Ranch Wrap
-Chick-fil-A,Chicken Nuggets
-Chick-fil-A,Waffle Fries
-Chick-fil-A,Chicken Sandwich
-Chick-fil-A,Grilled Chicken Nuggets
-Chick-fil-A,Grilled Chicken Sandwich
-Subway,Italian B.M.T.
-Subway,Oven Roasted Turkey
-Subway,Tuna
-Subway,Cold Cut Combo
-Subway,Wrap
-Dunkin Donuts,Omelet Bites
-Dunkin Donuts,Dunkin' Wrap
-Dunkin Donuts,Strawberry Dragonfruit Dunkin' Refreshers
-Dunkin Donuts,Glazed Donut
-Dunkin Donuts,Avocado Toast
-Dairy Queen,Vanilla Cone
-Dairy Queen,Butterfinger Blizzard
-Dairy Queen,Oreo Blizzard
-Dairy Queen,Heath Blizzard
-Dairy Queen,Hot Fudge Sundae
-Popeyes,Chicken Sandwich
-Popeyes,Chicken Blackened Tenders (3 Pcs)
-Popeyes,Sweet 'n Spicy Wings
-Popeyes,Ghost Pepper Wings
-Popeyes,Cajun Fries
-Jimmy Johns,Turkey Tom
-Jimmy Johns,Vito
-Jimmy Johns,Club Lulu
-Jimmy Johns,Beach Club
-Jimmy Johns,Totally Tuna
-KFC,Chicken Pot Pie
-KFC,Original Recipe Chicken Breast
-KFC,Cole Slaw
-KFC,Chicken Sandwich
-KFC,Popcorn Chicken Nuggets
-Whataburger,French Fries
-Whataburger,Whataburger
-Whataburger,Avocado Bacon Burger
-Whataburger,Grilled Chicken Sandwich
-Whataburger,Double Meat Whataburger
-Panera,Broccoli Cheddar Soup
-Panera,Green Goddess Caprese Melt
-Panera,French Baguette
-Panera,Fuji Apple Chicken Salad
-Panera,Frontega Chicken Panini
-Culvers,Chicken Tenders
-Culvers,ButterBurger Cheese
-Culvers,Vanilla Frozen Custard
-Culvers,Crinkle Cut Fries
-Culvers,Grilled Chicken Sandwich
-Wawa,Cheese Pizza
-Wawa,Creamy Chipotle Sauce
-Wawa,Strawberry Smoothie
-Wawa,Chicken Salad
-Wawa,Mashed Potatoes
-Domino's Pizza,Lg Hand Tossed Cheese Pizza
-Domino's Pizza,Lg Thin Crust Pizza
-Domino's Pizza,Chicken Alfredo Pasta
-Domino's Pizza,Marbled Cookie Brownie
-Domino's Pizza,Loaded Tots
-Texas Roadhouse,Sirloin Steak
-Texas Roadhouse,Fresh Baked Bread
-Texas Roadhouse,New York Strip Steak
-Texas Roadhouse,Ribs
-Texas Roadhouse,Chicken Critter Salad
-Chili's,Chips & Salsa
-Chili's,Classic Sirloin Steak
-Chili's,Old Timer Burger
-Chili's,Santa Fe Chicken Salad
-Chili's,Crispy Chicken Crispers
+restaurant,popular_item,bestseller
+McDonald's,French Fries,1
+McDonald's,Chicken McNuggets,1
+McDonald's,Big Mac,1
+McDonald's,Egg McMuffin,1
+McDonald's,Filet-O-Fish,1
+McDonald's,Quarter Pounder with Cheese,1
+McDonald's,McChicken,1
+McDonald's,Cheeseburger,1
+McDonald's,Hamburger,1
+McDonald's,Premium Asian Salad,1
+McDonald's,Hash Brown,1
+McDonald's,Iced Coffee,1
+McDonald's,Vanilla Ice Cream Cone,1
+McDonald's,Double Cheeseburger,1
+McDonald's,Double Quarter Pounder with Cheese,1
+Wendy's,Chicken Nuggets,1
+Wendy's,French Fries,1
+Wendy's,Chili,1
+Wendy's,Chocolate Frosty,1
+Wendy's,Grilled Chicken Ranch Wrap,1
+Wendy's,Apple Pecan Chicken Salad,1
+Wendy's,Baconator,1
+Wendy's,Jr. Bacon Cheeseburger (JBC),1
+Wendy's,Grilled Chicken Sandwich,1
+Wendy's,Cobb Salad,1
+Wendy's,Dave's Single Cheeseburger,1
+Wendy's,Classic Chicken Sandwich,1
+Wendy's,Crispy Chicken Sandwich,1
+Wendy's,Dave's Double Cheeseburger,1
+Wendy's,Spicy Chicken Nuggets,1
+Chick-fil-A,Chicken Nuggets,1
+Chick-fil-A,Waffle Fries,1
+Chick-fil-A,Chicken Sandwich,1
+Chick-fil-A,Grilled Chicken Nuggets,1
+Chick-fil-A,Grilled Chicken Sandwich,1
+Chick-fil-A,Chick-n-Strips,1
+Chick-fil-A,Cobb Salad,1
+Chick-fil-A,Chicken Deluxe Sandwich,1
+Chick-fil-A,Grilled Chicken Cool Wrap,1
+Chick-fil-A,Mac & Cheese,1
+Chick-fil-A,Spicy Chicken Sandwich,1
+Chick-fil-A,Lemonade,1
+Chick-fil-A,Fruit Cup,1
+Chick-fil-A,Market Salad,1
+Chick-fil-A,Spicy Deluxe,1
+Burger King,Whopper,1
+Burger King,French Fries,1
+Burger King,Whopper Jr,1
+Burger King,Strawberry Banana Smoothie,1
+Burger King,Strawberry Milk Shake,1
+Burger King,Impossible Whopper,1
+Burger King,Double Whopper,1
+Burger King,Chicken Nuggets,1
+Burger King,Cheeseburger,1
+Burger King,Bacon & Cheese Whopper,1
+Burger King,Original Chicken Sandwich,1
+Burger King,Bacon King,1
+Burger King,Bacon Melt,1
+Burger King,Triple Whopper,1
+Burger King,Hamburger,1
+Subway,Italian B.M.T.,1
+Subway,Oven Roasted Turkey,1
+Subway,Tuna,1
+Subway,Cold Cut Combo,1
+Subway,Wrap,1
+Subway,B.L.T.,1
+Subway,Sweet Onion Chicken Teriyaki,1
+Subway,Steak and Cheese,1
+Subway,Rotisserie Style Chicken,1
+Subway,Veggie Delite,1
+Subway,Subway Club,1
+Subway,Spicy Italian,1
+Subway,Black Forest Ham,1
+Subway,Meatball Marinara,1
+Subway,Chicken & Bacon Ranch,1
+Starbucks,Vanilla Sweet Cream Cold Brew,1
+Starbucks,Sous Vide Egg Bites,1
+Starbucks,Pink Drink,1
+Starbucks,Iced Brown Sugar Oatmilk Shaken Espresso,1
+Starbucks,"Bacon, Gouda & Egg Breakfast Sandwich",1
+Starbucks,Chai Latte,1
+Starbucks,Caramel Ribbon Crunch Frappuccino,1
+Starbucks,Strawberry Acai Refresher,1
+Starbucks,Strawberry Acai Lemonade Refresher,1
+Starbucks,Skinny Vanilla Latte,1
+Starbucks,Frappuccino,1
+Starbucks,Caramel Frappuccino,1
+Starbucks,Mango Dragonfruit Refresher,1
+Starbucks,Caffe Latte with Almond Milk,1
+Starbucks,Birthday Cake Pop,1
+Taco Bell,Crunchwrap Supreme,1
+Taco Bell,Crunchy Taco,1
+Taco Bell,Bean Burrito,1
+Taco Bell,Soft Taco - Beef,1
+Taco Bell,Chicken Power Bowl,1
+Taco Bell,Spicy Potato Soft Taco,1
+Taco Bell,Dragon Fruit Freeze,1
+Taco Bell,Mexican Pizza,1
+Taco Bell,Chicken Quesadilla,1
+Taco Bell,Nacho Fries,1
+Taco Bell,Crunchy Taco Supreme,1
+Taco Bell,Mountain Dew Baja Blast,1
+Taco Bell,Black Bean Soft Taco,1
+Taco Bell,Beefy 5-Layer Burrito,1
+Taco Bell,Burrito Supreme – Beef,1
+Arby's,Classic Roast Beef,1
+Arby's,Arby's Melt,1
+Arby's,Curly Fries,1
+Arby's,Americana Roast Beef Sandwich,1
+Arby's,Coca-Cola,1
+Arby's,Greek Gyro,1
+Arby's,Crispy Chicken Club Wrap,1
+Arby's,Mozzarella Sticks,1
+Arby's,Classic Beef 'n Cheddar,1
+Arby's,Corned Beef Reuben,1
+Arby's,Chicken Tenders,1
+Arby's,Orange Cream Shake,1
+Arby's,Classic French Dip & Swiss,1
+Arby's,Crinkle Fries,1
+Arby's,Jamocha Shake,1
+Dunkin Donuts,Omelet Bites,1
+Dunkin Donuts,Dunkin' Wrap,1
+Dunkin Donuts,Strawberry Dragonfruit Dunkin' Refreshers,1
+Dunkin Donuts,Glazed Donut,1
+Dunkin Donuts,Avocado Toast,1
+Dunkin Donuts,Bacon Egg & Cheese Sandwich,1
+Dunkin Donuts,Boston Kreme Donut,1
+Dunkin Donuts,Hash Browns,1
+Dunkin Donuts,Sausage Egg and Cheese Sandwich,1
+Dunkin Donuts,Muffin,1
+Dunkin Donuts,Plain Bagel,1
+Dunkin Donuts,Egg and Cheese Sandwich,1
+Dunkin Donuts,Egg & Cheese Wake-Up Wrap,1
+Dunkin Donuts,"Bacon, Egg & Cheese Wake-Up Wrap",1
+Dunkin Donuts,Croissant Stuffer,1
+Dairy Queen,Vanilla Cone,1
+Dairy Queen,Butterfinger Blizzard,1
+Dairy Queen,Oreo Blizzard,1
+Dairy Queen,Heath Blizzard,1
+Dairy Queen,Hot Fudge Sundae,1
+Dairy Queen,Chicken Strip Basket,1
+Dairy Queen,Chocolate Dipped Cone,1
+Dairy Queen,Brownie Batter Blizzard,1
+Dairy Queen,No Sugar Added Dilly Bar,1
+Dairy Queen,French Fries,1
+Dairy Queen,Chicken Strips,1
+Dairy Queen,Reese's Peanut Butter Cups Blizzard,1
+Dairy Queen,DQ Round Cake,1
+Dairy Queen,Chocolate Cone,1
+Dairy Queen,Original Cheeseburger,1
+Sonic,Cheeseburger,1
+Sonic,Diet Cherry Limeade,1
+Sonic,Mozzarella Sticks,1
+Sonic,Vanilla Shake,1
+Sonic,Corn Dog,1
+Sonic,Strawberry Real Fruit Slush,1
+Sonic,Jr. Burger,1
+Sonic,Chocolate Shake,1
+Sonic,Peach Syrup,1
+Sonic,Super Sonic Double Cheeseburger,1
+Sonic,French Fries,1
+Sonic,Cherry Limeade,1
+Sonic,Ocean Water,1
+Sonic,Tots,1
+Sonic,Cherry Slush,1
+Panda Express,Orange Chicken,1
+Panda Express,Grilled Teriyaki Chicken,1
+Panda Express,Chow Mein,1
+Panda Express,Kung Pao Chicken,1
+Panda Express,Broccoli Beef,1
+Panda Express,Teriyaki Chicken,1
+Panda Express,Fried Rice,1
+Panda Express,String Bean Chicken Breast,1
+Panda Express,Mushroom Chicken,1
+Panda Express,Firecracker Shrimp,1
+Panda Express,Veggie Spring Roll,1
+Panda Express,Super Greens Side,1
+Panda Express,Steamed White Rice,1
+Panda Express,Honey Sesame Chicken Breast,1
+Panda Express,Teriyaki Sauce,1
+Popeyes,Chicken Sandwich,1
+Popeyes,Chicken Blackened Tenders (3 Pcs),1
+Popeyes,Sweet 'n Spicy Wings,1
+Popeyes,Ghost Pepper Wings,1
+Popeyes,Cajun Fries,1
+Popeyes,Spicy Chicken Sandwich,1
+Popeyes,Homestyle Mac & Cheese,1
+Popeyes,Strawberry Cheesecake Cup,1
+Popeyes,Chicken Nuggets,1
+Popeyes,Blackened Chicken Sandwich,1
+Popeyes,Bonafide Mild Chicken Breast,1
+Popeyes,Mashed Potatoes,1
+Popeyes,Biscuit,1
+Popeyes,Chicken Mild Tenders (3pcs),1
+Popeyes,Red Beans & Rice,1
+Whataburger,French Fries,1
+Whataburger,Whataburger,1
+Whataburger,Avocado Bacon Burger,1
+Whataburger,Grilled Chicken Sandwich,1
+Whataburger,Double Meat Whataburger,1
+Whataburger,Whatachick'n Strips,1
+Whataburger,Whataburger Jr.,1
+Whataburger,Sweet & Spicy Bacon Burger,1
+Whataburger,Apple & Cranberry Chicken Salad,1
+Whataburger,Onion Rings,1
+Whataburger,Vanilla Shake,1
+Whataburger,Bacon & Cheese Whataburger,1
+Whataburger,Breakfast Burger,1
+Whataburger,Sweet Tea,1
+Whataburger,Triple Meat Whataburger,1
+Panera,Broccoli Cheddar Soup,1
+Panera,Green Goddess Caprese Melt,1
+Panera,French Baguette,1
+Panera,Fuji Apple Chicken Salad,1
+Panera,Frontega Chicken Panini,1
+Panera,Chipotle Chicken Avocado Melt,1
+Panera,Chicken Noodle Soup,1
+Panera,"Avocado, Egg White & Spinach Breakfast Power Sandwich",1
+Panera,Greek Salad,1
+Panera,Green Goddess Cobb Salad with Chicken,1
+Panera,Mexican Street Corn Chowder,1
+Panera,Creamy Tomato Soup,1
+Panera,Chicken Caesar Salad,1
+Panera,Caesar Salad,1
+Panera,Tuna Salad Sandwich,1
+Culvers,Chicken Tenders,1
+Culvers,ButterBurger Cheese,1
+Culvers,Vanilla Frozen Custard,1
+Culvers,Crinkle Cut Fries,1
+Culvers,Grilled Chicken Sandwich,1
+Culvers,Deluxe,1
+Culvers,Strawberry Fields Salad,1
+Culvers,North Atlantic Cod Dinner,1
+Culvers,Original ButterBurger,1
+Culvers,Wisconsin Cheese Curds,1
+Culvers,North Atlantic Cod Filet Sandwich,1
+Culvers,Vanilla Custard Dish,1
+Culvers,Bacon Deluxe,1
+Culvers,Garden Fresco Salad with Grilled Chicken,1
+Culvers,Chocolate Custard Dish,1
+Wawa,Cheese Pizza,1
+Wawa,Creamy Chipotle Sauce,1
+Wawa,Strawberry Smoothie,1
+Wawa,Chicken Salad,1
+Wawa,Mashed Potatoes,1
+Wawa,Vanilla Milkshake,1
+Wawa,Macaroni and Cheese,1
+Wawa,Soft Pretzel,1
+Wawa,Meatballs in Marinara Sauce,1
+Wawa,Chicken Noodle Soup,1
+Wawa,Chicken Tenders,1
+Wawa,Wheat Classic Roll,1
+Wawa,Scrambled Eggs,1
+Wawa,Honey Hot Sauce,1
+Wawa,Garlic Aioli Sauce,1
+Costco Food Court,Cheese Pizza,1
+Costco Food Court,Chicken Bake,1
+Costco Food Court,Pepperoni Pizza,1
+Costco Food Court,Hot Dog & Soda,1
+Costco Food Court,Fruit Smoothie,1
+Costco Food Court,Rotisserie Chicken,1
+Costco Food Court,Berry Sundae,1
+Costco Food Court,Latte Freeze,1
+Costco Food Court,Mocha Freeze,1
+Costco Food Court,Polish Sausage,1
+Costco Food Court,Carne Pizza,1
+Costco Food Court,Chicken Caesar Salad with Dressing & Croutons,1
+Costco Food Court,Yogurt,1
+Costco Food Court,Bratwurst,1
+Costco Food Court,Churro,1
+Little Caesars,Hot-N-Ready Cheese Pizza,1
+Little Caesars,Hot-N-Ready Pepperoni Pizza,1
+Little Caesars,Crazy Bread,1
+Little Caesars,ExtraMostBestest Pizza,1
+Little Caesars,Cookie Dough Brownie with Twix,1
+Little Caesars,Pepperoni Cheeser!Cheeser! Pizza,1
+Little Caesars,Ultimate Supreme Pizza,1
+Little Caesars,Hula Hawaiian Pizza,1
+Little Caesars,3 Meat Treat Pizza,1
+Little Caesars,Pepperoni Detroit Style Deep Dish Pizza,1
+Little Caesars,Veggie Pizza,1
+Little Caesars,Italian Cheese Bread,1
+Little Caesars,Extramostbestest Thin Crust Pizza,1
+Little Caesars,Cookie Dough Brownie with M&M’s,1
+Little Caesars,Italian Sausage Pizza,1
+Texas Roadhouse,Sirloin Steak,1
+Texas Roadhouse,Fresh Baked Bread,1
+Texas Roadhouse,New York Strip Steak,1
+Texas Roadhouse,Ribs,1
+Texas Roadhouse,Chicken Critter Salad,1
+Texas Roadhouse,Baked Potato,1
+Texas Roadhouse,House Side Salad,1
+Texas Roadhouse,Texas Red Chili,1
+Texas Roadhouse,Grilled Chicken Salad,1
+Texas Roadhouse,Herb Crusted Chicken,1
+Texas Roadhouse,Sweet Potato,1
+Texas Roadhouse,Grilled Salmon,1
+Texas Roadhouse,All-American Cheeseburger,1
+Texas Roadhouse,Strawberry Cheesecake,1
+Texas Roadhouse,Green Beans,1
+Five Guys,Cheeseburger,1
+Five Guys,Five Guys Style Fries,1
+Five Guys,Bacon Cheeseburger,1
+Five Guys,Hamburger,1
+Five Guys,Little Hamburger,1
+Five Guys,Little Cheeseburger,1
+Five Guys,Little Bacon Cheeseburger,1
+Five Guys,Hot Dog,1
+Five Guys,Bunless Cheeseburger,1
+Five Guys,Cajun Style Fries,1
+Five Guys,Bunless Bacon Cheeseburger,1
+Five Guys,Grilled Cheese,1
+Five Guys,Bunless Hamburger,1
+Five Guys,Veggie Sandwich,1
+Five Guys,Bacon Burger,1
